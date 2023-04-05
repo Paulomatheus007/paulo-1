@@ -1,0 +1,88 @@
+header {
+    border: 1px black;
+    padding: 20px;
+    background-color: rgb(91, 136, 24);
+text-align: end;
+color: chartreuse;
+text-decoration-line: none;
+}
+
+h1 {
+    color:rgb(5, 70, 5);
+    margin: 30px;
+    padding: 5px;
+    text-align: left;
+}
+a{
+    margin-right: 50px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    background-color:rgb(207, 230, 108) ;
+    
+}
+body{
+    background-color:lightgreen
+    
+}
+footer{
+background-color: greenyellow;
+text-shadow: 5px black;
+border: solid black;
+margin: auto 20px;
+}
+
+h3{
+background-color: rgb(22, 89, 100);
+text-align: end;
+}
+
+a:hover{
+
+    
+}
+
+#imagens{
+border: solid black;
+
+
+}
+
+ .login-2{
+border: solid black;
+height: ;
+background-color: beige;
+text-align: center;
+margin: 150px;
+padding: 150px;
+margin-top: 0px;
+ }  
+
+
+
+
+b{
+    margin-right: 20px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    background-color:rgb(207, 230, 108) ;
+text-align: center;
+}
+
+#formulario{
+
+
+}
+#titulo-form{
+text-align: center;
+
+}
+#tela-1{
+border: solid black;
+
+}
+
+h6{
+
+
